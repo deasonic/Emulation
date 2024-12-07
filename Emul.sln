@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emul", "Emul\Emul.csproj", "{6C17E6DA-0E09-425E-8BC0-14971AF8EA89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C17E6DA-0E09-425E-8BC0-14971AF8EA89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C17E6DA-0E09-425E-8BC0-14971AF8EA89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C17E6DA-0E09-425E-8BC0-14971AF8EA89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C17E6DA-0E09-425E-8BC0-14971AF8EA89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC0064DF-B16C-427F-BC0B-CB904D8F1208}
+	EndGlobalSection
+EndGlobal
